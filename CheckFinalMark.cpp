@@ -33,7 +33,9 @@ int main()
     }
     
     increase--;
-    cout << increase << decrement;
+    cout << "Increase: " << increase;
+    cout << endl;
+    cout << "Decrement: " << decrement;
 
     return 0;
 }
